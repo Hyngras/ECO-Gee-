@@ -1,5 +1,5 @@
 # ECO(Gee) - Technical Documentation
-![Alt text](Log.png)
+![Alt text](img.png)
 
 ## 1. Project Overview
 
