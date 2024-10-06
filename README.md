@@ -1,5 +1,6 @@
 # ECO(Gee) - Technical Documentation
 
+
 ## 1. Project Overview
 
 **ECO(Gee)** is a gamified app that encourages sustainable actions in Recife, Brazil. Using satellite data from NASA, the app maps zones of greenhouse gas emissions and absorption (CO2), offering rewards to users for practices like tree planting and conscious consumption. ECO(Gee) aims to raise awareness and engage the population in the fight against climate change in a collaborative and enjoyable way.
