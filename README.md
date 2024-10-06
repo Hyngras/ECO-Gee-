@@ -30,7 +30,12 @@ The tools used to manipulate and visualize the data include:
 - **Cartopy** for geospatial visualization.
 - **Matplotlib** for graphical visualization of the results.
 
+### 2.3. Storage Limitation on GitHub
+
 ## 3. Processing Algorithm
+- Due to GitHub storage limitations for large files, we were unable to upload the folder containing the NASA satellite data files directly to the repository. The datasets used in the project, in NetCDF format, can be accessed and downloaded through the external link: [https://drive.google.com/drive/folders/1GAVd-osmx3x13lQtvkDH11ryZYSPzCD1?usp=drive_link]
+
+- This data is essential for generating the application's graphs and visualizations. However, the codes and scripts that use these datasets are present in the repository, allowing users to process the data locally after download.
 
 ### 3.1. Algorithm Workflow
 
